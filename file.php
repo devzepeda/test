@@ -9,7 +9,6 @@
 </head>
 <body>
     <h5>hola este es un titulo </h5>
-    <h3>hola este es un titulo 2 </h3>
 </body>
 </html>
 
